@@ -27,7 +27,7 @@ banking-deserts-ireland/
 ├── outputs/                  # Exported maps, figures, and model evaluations
 ├── processed-data/           # Cleaned spatial layers and summary statistics
 ├── raw-data/                 # Directory for raw input datasets
-└── NCG616_Dissertation_Banking_Deserts_Ireland.html   # # Main analysis exported HTML report
+└── NCG616_Dissertation_Banking_Deserts_Ireland.html   # Main analysis exported HTML report
 ```
 ---
 
